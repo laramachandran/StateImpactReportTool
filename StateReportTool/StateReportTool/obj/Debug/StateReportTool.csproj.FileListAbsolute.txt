@@ -5,3 +5,10 @@ C:\Lavanya\IZ_DataRepository\StateJuris_Tool\StateReportTool\StateReportTool\obj
 C:\Lavanya\IZ_DataRepository\StateJuris_Tool\StateReportTool\StateReportTool\obj\Debug\StateReportTool.csproj.CoreCompileInputs.cache
 C:\Lavanya\IZ_DataRepository\StateJuris_Tool\StateReportTool\StateReportTool\obj\Debug\StateReportTool.exe
 C:\Lavanya\IZ_DataRepository\StateJuris_Tool\StateReportTool\StateReportTool\obj\Debug\StateReportTool.pdb
+C:\Lavanya\IZ_DataRepository\StateImpactReportTool\StateReportTool\StateReportTool\bin\Debug\StateReportTool.exe.config
+C:\Lavanya\IZ_DataRepository\StateImpactReportTool\StateReportTool\StateReportTool\bin\Debug\StateReportTool.exe
+C:\Lavanya\IZ_DataRepository\StateImpactReportTool\StateReportTool\StateReportTool\bin\Debug\StateReportTool.pdb
+C:\Lavanya\IZ_DataRepository\StateImpactReportTool\StateReportTool\StateReportTool\obj\Debug\StateReportTool.csprojAssemblyReference.cache
+C:\Lavanya\IZ_DataRepository\StateImpactReportTool\StateReportTool\StateReportTool\obj\Debug\StateReportTool.csproj.CoreCompileInputs.cache
+C:\Lavanya\IZ_DataRepository\StateImpactReportTool\StateReportTool\StateReportTool\obj\Debug\StateReportTool.exe
+C:\Lavanya\IZ_DataRepository\StateImpactReportTool\StateReportTool\StateReportTool\obj\Debug\StateReportTool.pdb

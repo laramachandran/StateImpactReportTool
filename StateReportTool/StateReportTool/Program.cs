@@ -34,8 +34,7 @@ namespace StateReportTool
                 }
             }
            
-            using (OleDbConnection conn = new OleDbConnection())
-            {
+           
                 foreach (FileInfo file in files)
                 {
                     DataTable dt = mainTable.Clone();
@@ -81,7 +80,7 @@ namespace StateReportTool
 
                 ExportToExcel(workBookTable);                
                 Console.ReadKey();
-            }
+           
 
         }
 
