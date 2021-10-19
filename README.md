@@ -10,9 +10,9 @@ This tool must be run separately for generating state impact report for Add/Upda
 • Open the StateReportTool.exe.config in a notepad and edit the following:
 
 • Edit the value field (the highlighted field below) for the filePath in the config to point to the folder where the, e.g., Delete files are.
-o <add key="filePath" value="C:\TestFiles\DeleteFiles"/>
+     o <add key="filePath" value="C:\TestFiles\DeleteFiles"/>
 • Edit the value field (the highlighted field below) for the excelPath in the config. This is the folder and the file name (name of your choice ) for the State Impact Report.
-o <add key ="excelPath" value ="C:\TestFiles\GeneratedExcel\StateImpact_UD.xls"/>
+     o <add key ="excelPath" value ="C:\TestFiles\GeneratedExcel\StateImpact_UD.xls"/>
 
 • Double click the StateReportTool.exe.
 • Once the processing is done, the state impact report should be available in the path mentioned in the excelPath in the StateReportTool.exe.config
